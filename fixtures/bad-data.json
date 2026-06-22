@@ -1,0 +1,8 @@
+[
+  { "id": "A", "name": "Alice", "managerId": "B", "title": "Engineer", "department": "Eng" },
+  { "id": "B", "name": "Bob", "managerId": "C", "title": "Manager", "department": "Eng" },
+  { "id": "C", "name": "Carol", "managerId": "A", "title": "Director", "department": "Eng" },
+  { "id": "D", "name": "Dave", "managerId": "MISSING", "title": "Analyst", "department": "Ops" },
+  { "id": "E", "name": "Eve", "managerId": "E", "title": "Lead", "department": "Eng" },
+  { "id": "F", "name": "Frank", "managerId": null, "title": "", "department": "" }
+]

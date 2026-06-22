@@ -1,0 +1,12 @@
+[
+  { "id": "E001", "name": "Alice Johnson", "managerId": null, "title": "CEO", "department": "Executive" },
+  { "id": "E002", "name": "Bob Smith", "managerId": "E001", "title": "VP Engineering", "department": "Engineering" },
+  { "id": "E003", "name": "Carol Lee", "managerId": "E001", "title": "VP Sales", "department": "Sales" },
+  { "id": "E004", "name": "Dave Kim", "managerId": "E002", "title": "Engineering Manager", "department": "Engineering" },
+  { "id": "E005", "name": "Eve Chen", "managerId": "E004", "title": "Software Engineer", "department": "Engineering" },
+  { "id": "E006", "name": "Frank Miller", "managerId": "E002", "title": "Software Engineer", "department": "Engineering" },
+  { "id": "E007", "name": "Grace Park", "managerId": "E003", "title": "Account Executive", "department": "Sales" },
+  { "id": "E008", "name": "Henry Wu", "managerId": "E003", "title": "Account Executive", "department": "Sales" },
+  { "id": "E009", "name": "Ivy Nguyen", "managerId": "E004", "title": "Software Engineer", "department": "Engineering" },
+  { "id": "E010", "name": "Jack Brown", "managerId": "E007", "title": "Sales Development Rep", "department": "Sales" }
+]

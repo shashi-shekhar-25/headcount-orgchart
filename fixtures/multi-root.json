@@ -1,0 +1,8 @@
+[
+  { "id": "R1", "name": "North CEO", "managerId": null, "title": "CEO", "department": "North" },
+  { "id": "R2", "name": "South CEO", "managerId": null, "title": "CEO", "department": "South" },
+  { "id": "N1", "name": "North Manager", "managerId": "R1", "title": "Director", "department": "North" },
+  { "id": "S1", "name": "South Manager", "managerId": "R2", "title": "Director", "department": "South" },
+  { "id": "N2", "name": "North IC", "managerId": "N1", "title": "Analyst", "department": "North" },
+  { "id": "S2", "name": "South IC", "managerId": "S1", "title": "Analyst", "department": "South" }
+]
