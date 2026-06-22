@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Interactive headcount org chart with Excel upload and reorg simulation",
   "type": "module",
+  "version": "1.0.1",
   "scripts": {
     "dev": "vite --config client/vite.config.js",
     "build": "vite build --config client/vite.config.js",

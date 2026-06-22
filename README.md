@@ -50,6 +50,16 @@ docker build -t headcount-orgchart .
 docker run --rm -p 3000:3000 headcount-orgchart
 ```
 
+## Release v1.0.1
+
+This repository has been published as `https://github.com/shashi-shekhar-25/headcount-orgchart` with a released tag `v1.0.1`.
+
+- Added org chart reorg simulation and export features
+- Added PPTX and Excel export capabilities
+- Added orthogonal layout tuning and interactive node operations
+- Added validation and cycle-safe manager reassignment
+- Added CI workflow for build and test verification
+
 ## Privacy
 
 Your spreadsheet is parsed entirely in the browser and is never uploaded to the server.
